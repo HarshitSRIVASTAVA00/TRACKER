@@ -14,10 +14,7 @@ A real-time location tracking web application built with Node.js, Express, Socke
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript, EJS (Embedded JavaScript templates)
 * **Library/CDNs:** Leaflet.js
 
-## Available NPM Commands
-* **Start Server:** Runs the application in production mode using `node app.js`.
-  ```bash
-  npm start
+
 
 ## Project Directory Structure
 ```text
